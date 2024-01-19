@@ -1,0 +1,8 @@
+.App {
+  background-color:lightblue;
+  display: flex;
+  justify-content: center;
+  /* width: 1530px; */
+  height: 550px;
+  padding: 5rem;
+}
